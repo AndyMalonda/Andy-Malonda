@@ -1,4 +1,10 @@
 console.log("script ok");
+
+// theme sombre
+/* function darkTheme() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+} */
  
  // apparition du bouton retour en haut
  window.addEventListener("scroll", () => {
